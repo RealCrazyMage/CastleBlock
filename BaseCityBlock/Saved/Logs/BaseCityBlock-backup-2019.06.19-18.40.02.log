@@ -1,0 +1,1508 @@
+﻿Log file open, 06/19/19 12:26:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277947
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.074s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.19-18.26.25:171][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.19-18.26.25:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:172][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:175][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.19-18.26.25:175][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.19-18.26.25:176][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.19-18.26.25:176][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.19-18.26.25:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.19-18.26.25:187][  0]LogHAL: Display: Platform has ~ 16 GB [17094557696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.19-18.26.25:187][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.19-18.26.25:187][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.19-18.26.25:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.19-18.26.25:188][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.19-18.26.25:188][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-18.26.25:188][  0]LogInit: Computer: eae-n-015
+[2019.06.19-18.26.25:188][  0]LogInit: User: u1197851
+[2019.06.19-18.26.25:188][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.19-18.26.25:188][  0]LogInit: High frequency timer resolution =3.023442 MHz
+[2019.06.19-18.26.25:189][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.19-18.26.25:189][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.19-18.26.25:189][  0]LogMemory: Process Physical Memory: 101.79 MB used, 101.79 MB peak
+[2019.06.19-18.26.25:189][  0]LogMemory: Process Virtual Memory: 91.21 MB used, 91.21 MB peak
+[2019.06.19-18.26.25:189][  0]LogMemory: Physical Memory: 5348.22 MB used,  10954.42 MB free, 16302.64 MB total
+[2019.06.19-18.26.25:189][  0]LogMemory: Virtual Memory: 4647.91 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.19-18.26.25:209][  0]LogInit: Using OS detected language (en-US).
+[2019.06.19-18.26.25:209][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.19-18.26.25:210][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.19-18.26.25:560][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
+[2019.06.19-18.26.25:560][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.19-18.26.25:603][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.19-18.26.25:603][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.19-18.26.25:791][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.19-18.26.25:791][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.19-18.26.25:827][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2019.06.19-18.26.25:827][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.19-18.26.25:853][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.19-18.26.25:853][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.19-18.26.25:855][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.19-18.26.25:855][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.19-18.26.25:855][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.19-18.26.25:862][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.19-18.26.25:862][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2019.06.19-18.26.25:862][  0]LogWindows: EnumDisplayDevices:
+[2019.06.19-18.26.25:862][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2019.06.19-18.26.25:862][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:863][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:863][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:864][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:864][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:864][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:864][  0]LogWindows:    7. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-18.26.25:865][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.19-18.26.25:865][  0]LogWindows:    9. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.19-18.26.25:865][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2019.06.19-18.26.25:865][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2019.06.19-18.26.25:865][  0]LogD3D11RHI:   Driver Version: Adrenalin 19 18.12.2 (internal:25.20.15002.58, unified:25.20.15002.58)
+[2019.06.19-18.26.25:865][  0]LogD3D11RHI:      Driver Date: 12-6-2018
+[2019.06.19-18.26.25:865][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.06.19-18.26.25:972][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.19-18.26.25:984][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.06.19-18.26.26:254][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.19-18.26.26:265][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.19-18.26.26:277][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.19-18.26.26:289][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.19-18.26.26:300][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.19-18.26.26:312][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.19-18.26.26:324][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.19-18.26.26:337][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.19-18.26.26:343][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:407][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.19-18.26.26:409][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.19-18.26.26:474][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.19-18.26.26:474][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.19-18.26.26:494][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.19-18.26.26:494][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.19-18.26.26:506][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.19-18.26.26:516][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.19-18.26.26:527][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.19-18.26.26:539][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.19-18.26.26:578][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.19-18.26.26:578][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.19-18.26.26:578][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.19-18.26.26:631][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/7268/).
+[2019.06.19-18.26.26:631][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1197851/AppData/Local/Temp/UnrealShaderWorkingDir/BF77A6D44C36F3C4BDF5E6BAFE7E37E6/'.
+[2019.06.19-18.26.26:633][  0]LogXGEController: Cleaning working directory: C:/Users/u1197851/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.19-18.26.26:633][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.19-18.26.26:633][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.19-18.26.26:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.19-18.26.27:124][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/u1197851/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1197851/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.19-18.26.27:177][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.19-18.26.27:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.19-18.26.27:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.19-18.26.27:192][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.19-18.26.27:205][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1197851/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.19-18.26.27:205][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.19-18.26.27:205][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.19-18.26.27:228][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.19-18.26.27:229][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.19-18.26.27:230][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.19-18.26.27:316][  0]LogAssetRegistry: FAssetRegistry took 0.0330 seconds to start up
+[2019.06.19-18.26.27:605][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.19-18.26.27:746][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.19-18.26.27:750][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.19-18.26.27:750][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.19-18.26.27:750][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.19-18.26.27:750][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.19-18.26.27:762][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.19-18.26.28:227][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.082082 seconds
+[2019.06.19-18.26.28:232][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.19-18.26.28:232][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.06.19-18.26.28:232][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.19-18.26.29:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.19-18.26.29:026][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.19-18.26.29:641][  0]SourceControl: Source control is disabled
+[2019.06.19-18.26.29:641][  0]SourceControl: Source control is disabled
+[2019.06.19-18.26.29:643][  0]SourceControl: Source control is disabled
+[2019.06.19-18.26.29:644][  0]SourceControl: Source control is disabled
+[2019.06.19-18.26.29:800][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.19-18.26.29:878][  0]LogOcInput: OculusInput pre-init called
+[2019.06.19-18.26.30:008][  0]LogEngine: Initializing Engine...
+[2019.06.19-18.26.30:008][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.19-18.26.30:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.19-18.26.30:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.19-18.26.30:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.19-18.26.30:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.19-18.26.30:224][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.19-18.26.30:236][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.19-18.26.30:279][  0]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.19-18.26.30:291][  0]LogInit: FAudioDevice initialized.
+[2019.06.19-18.26.30:291][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.19-18.26.30:371][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/u1197851/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.19-18.26.30:377][  0]LogInit: Texture streaming: Enabled
+[2019.06.19-18.26.30:393][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.19-18.26.30:408][  0]LogInit: Transaction tracking system initialized
+[2019.06.19-18.26.30:431][  0]BlueprintLog: New page: Editor Load
+[2019.06.19-18.26.30:503][  0]LocalizationService: Localization service is disabled
+[2019.06.19-18.26.30:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/' took 0.01s
+[2019.06.19-18.26.30:944][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.19-18.26.30:944][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.19-18.26.30:944][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.19-18.26.30:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.19-18.26.30:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.19-18.26.30:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.19-18.26.30:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.19-18.26.31:062][  0]SourceControl: Source control is disabled
+[2019.06.19-18.26.31:062][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.19-18.26.31:062][  0]LightingResults: New page: Lighting Build
+[2019.06.19-18.26.31:065][  0]MapCheck: New page: Map Check
+[2019.06.19-18.26.31:065][  0]LightingResults: New page: Lighting Build
+[2019.06.19-18.26.31:210][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.19-18.26.31:216][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.19-18.26.31:237][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.19-18.26.31:238][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.259ms to complete.
+[2019.06.19-18.26.31:238][  0]LogFileHelpers: Loading map 'Template_Default' took 0.175
+[2019.06.19-18.26.31:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.26.31:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.26.31:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.26.31:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.26.31:363][  0]LogCollectionManager: Loaded 0 collections in 0.002029 seconds
+[2019.06.19-18.26.31:378][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.19-18.26.31:378][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Developers/u1197851/Collections/' took 0.00s
+[2019.06.19-18.26.31:378][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Collections/' took 0.00s
+[2019.06.19-18.26.31:378][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.19-18.26.31:385][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2651 classes and 620 folders.
+[2019.06.19-18.26.31:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-18.26.31:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-18.26.31:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-18.26.31:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.06.19-18.26.31:452][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.19-18.26.31:454][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.19-18.26.31:459][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.19-18.26.31:531][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.19-18.26.31:687][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-18.26.31:688][  0]LogLoad: (Engine Initialization) Total time: 8.10 seconds
+[2019.06.19-18.26.31:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.19-18.26.31:699][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.19-18.26.31:754][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.19-18.26.31:786][  1]LogAssetRegistry: Asset discovery search completed in 4.4927 seconds
+[2019.06.19-18.26.31:787][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.19-18.26.31:787][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.06.19-18.26.32:713][107]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.19-18.26.35:775][438]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.19-18.26.37:475][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.26.41:106][957]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.19-18.26.41:147][957]LogAssetEditorManager: Opening Asset editor for World /Game/CastleBlocks/Xavier_Level.Xavier_Level
+[2019.06.19-18.26.41:178][957]Cmd: MAP LOAD FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.19-18.26.41:178][957]LightingResults: New page: Lighting Build
+[2019.06.19-18.26.41:179][957]LoadErrors: New page: Loading map: Xavier_Level.umap
+[2019.06.19-18.26.41:180][957]MapCheck: New page: Map Check
+[2019.06.19-18.26.41:180][957]LightingResults: New page: Lighting Build
+[2019.06.19-18.26.41:229][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.19-18.26.41:274][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.19-18.26.41:275][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.27ms to complete.
+[2019.06.19-18.26.41:275][957]LogFileHelpers: Loading map 'Xavier_Level' took 0.098
+[2019.06.19-18.26.51:496][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.27.05:118][931]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1197851/Desktop/KingTPose.fbx)
+[2019.06.19-18.27.05:134][931]LogFbx: Loading FBX Scene from ../../../../../../Users/u1197851/Desktop/KingTPose.fbx
+[2019.06.19-18.27.05:166][931]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.19-18.27.20:202][931]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.19-18.27.20:240][931]LogFbx: =================================================
+[2019.06.19-18.27.20:240][931]LogFbx: Dumping Node START [polySurface1] 
+[2019.06.19-18.27.20:240][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:240][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:240][931]LogFbx: =================================================
+[2019.06.19-18.27.20:240][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:240][931]LogFbx: 		[Node Attribute Child 1] polySurface1 (Type Mesh).
+[2019.06.19-18.27.20:240][931]LogFbx: Dumping Node END [polySurface1]
+[2019.06.19-18.27.20:240][931]LogFbx: =================================================
+[2019.06.19-18.27.20:240][931]LogFbx: Dumping Node START [polySurface2] 
+[2019.06.19-18.27.20:240][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:240][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:240][931]LogFbx: =================================================
+[2019.06.19-18.27.20:240][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:240][931]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2019.06.19-18.27.20:240][931]LogFbx: Dumping Node END [polySurface2]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface3] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface3 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface3]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface4] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface4 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface4]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface5] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface5 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface5]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface6] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface6 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface6]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface7] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface7 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface7]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface8] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface8 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface8]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface9] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface9 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface9]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface10] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface10 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface10]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface11] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface11 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface11]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface12] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node END [polySurface12]
+[2019.06.19-18.27.20:241][931]LogFbx: =================================================
+[2019.06.19-18.27.20:241][931]LogFbx: Dumping Node START [polySurface13] 
+[2019.06.19-18.27.20:241][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:241][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface13 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface13]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface14] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface14 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface14]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface15] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface15 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface15]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface16] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface16 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface16]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface1] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface1 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface1]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface2] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface2]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface3] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface3 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface3]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface4] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface4 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface4]
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node START [polySurface5] 
+[2019.06.19-18.27.20:242][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:242][931]LogFbx: =================================================
+[2019.06.19-18.27.20:242][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:242][931]LogFbx: 		[Node Attribute Child 1] polySurface5 (Type Mesh).
+[2019.06.19-18.27.20:242][931]LogFbx: Dumping Node END [polySurface5]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface6] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface6 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface6]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface7] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface7 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface7]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface8] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface8 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface8]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface9] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface9 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface9]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface10] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface10 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface10]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface11] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface11 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface11]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface12] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface12]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface13] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface13 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface13]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface14] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface14 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface14]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface15] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface15 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface15]
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node START [polySurface16] 
+[2019.06.19-18.27.20:243][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:243][931]LogFbx: =================================================
+[2019.06.19-18.27.20:243][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:243][931]LogFbx: 		[Node Attribute Child 1] polySurface16 (Type Mesh).
+[2019.06.19-18.27.20:243][931]LogFbx: Dumping Node END [polySurface16]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface1] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface1 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface1]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface2] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface2]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface3] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface3 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface3]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface4] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface4 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface4]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface5] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface5 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface5]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface6] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface6 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface6]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface7] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1242789456.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface7 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface7]
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node START [polySurface8] 
+[2019.06.19-18.27.20:244][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:244][931]LogFbx: =================================================
+[2019.06.19-18.27.20:244][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:244][931]LogFbx: 		[Node Attribute Child 1] polySurface8 (Type Mesh).
+[2019.06.19-18.27.20:244][931]LogFbx: Dumping Node END [polySurface8]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface9] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface9 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface9]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface10] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface10 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface10]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface11] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface11 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface11]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface12] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface12]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface13] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface13 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface13]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface14] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface14 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface14]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface15] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface15 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface15]
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node START [polySurface16] 
+[2019.06.19-18.27.20:245][931]LogFbx: 	Total Deformer Count 1348934592.
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.19-18.27.20:245][931]LogFbx: =================================================
+[2019.06.19-18.27.20:245][931]LogFbx: 	Attribute () Type (4).
+[2019.06.19-18.27.20:245][931]LogFbx: 		[Node Attribute Child 1] polySurface16 (Type Mesh).
+[2019.06.19-18.27.20:245][931]LogFbx: Dumping Node END [polySurface16]
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster1) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster2) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster3) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster4) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster5) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster6) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster7) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster8) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster9) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster10) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster11) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster12) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster13) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster14) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster15) - polySurface1
+[2019.06.19-18.27.20:248][931]LogFbx: Valid bind pose for Pose (skinCluster16) - polySurface1
+[2019.06.19-18.27.20:367][931]LogFbx: Triangulating skeletal mesh polySurface1
+[2019.06.19-18.27.20:384][931]LogFbx: Triangulating skeletal mesh polySurface2
+[2019.06.19-18.27.20:401][931]LogFbx: Triangulating skeletal mesh polySurface3
+[2019.06.19-18.27.20:423][931]LogFbx: Triangulating skeletal mesh polySurface4
+[2019.06.19-18.27.20:444][931]LogFbx: Triangulating skeletal mesh polySurface5
+[2019.06.19-18.27.20:461][931]LogFbx: Triangulating skeletal mesh polySurface6
+[2019.06.19-18.27.20:486][931]LogFbx: Triangulating skeletal mesh polySurface7
+[2019.06.19-18.27.20:511][931]LogFbx: Triangulating skeletal mesh polySurface8
+[2019.06.19-18.27.20:526][931]LogFbx: Triangulating skeletal mesh polySurface9
+[2019.06.19-18.27.20:546][931]LogFbx: Triangulating skeletal mesh polySurface10
+[2019.06.19-18.27.20:564][931]LogFbx: Triangulating skeletal mesh polySurface11
+[2019.06.19-18.27.20:584][931]LogFbx: Triangulating skeletal mesh polySurface12
+[2019.06.19-18.27.20:601][931]LogFbx: Triangulating skeletal mesh polySurface13
+[2019.06.19-18.27.20:627][931]LogFbx: Triangulating skeletal mesh polySurface14
+[2019.06.19-18.27.20:648][931]LogFbx: Triangulating skeletal mesh polySurface15
+[2019.06.19-18.27.20:669][931]LogFbx: Triangulating skeletal mesh polySurface16
+[2019.06.19-18.27.20:713][931]LogFbx: Warning: Bones digested - 15  Depth of hierarchy - 5
+[2019.06.19-18.27.20:864][931]LogSkeletalMesh: Section 0: 17064 vertices, 15 active bones
+[2019.06.19-18.27.20:868][931]LogSkeletalMesh: Section 0: Material=0, 8792 triangles
+[2019.06.19-18.27.20:868][931]LogSkeletalMesh: Building Skeletal Mesh KingTPose...
+[2019.06.19-18.27.20:882][931]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/mannequin/KingTPose.KingTPose
+[2019.06.19-18.27.20:886][931]LogLinker: Can't find file '/Game/mannequin/KingTPose_Skeleton'
+[2019.06.19-18.27.20:886][931]LogLinker: Can't find file '/Game/mannequin/KingTPose_Skeleton'
+[2019.06.19-18.27.20:890][931]LogLinker: Can't find file '/Game/mannequin/KingTPose_PhysicsAsset'
+[2019.06.19-18.27.20:890][931]LogLinker: Can't find file '/Game/mannequin/KingTPose_PhysicsAsset'
+[2019.06.19-18.27.20:897][931]LogMaterial: Warning: Material /Game/woodBlocksContent/King.King needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.19-18.27.20:899][931]LogMaterial: Display: Missing cached shader map for material King, compiling. 
+[2019.06.19-18.27.20:959][931]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.19-18.27.20:959][931]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.19-18.27.20:959][931]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.19-18.27.20:959][931]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.19-18.27.20:964][931]LogSkeletalMesh: Building Skeletal Mesh KingTPose...
+[2019.06.19-18.27.20:977][931]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/mannequin/KingTPose.KingTPose
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:987][931]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.19-18.27.20:999][931]LogSkeletalMesh: Building Skeletal Mesh KingTPose...
+[2019.06.19-18.27.21:017][931]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/mannequin/KingTPose.KingTPose
+[2019.06.19-18.27.23:160][ 59]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-18.27.23:167][ 59]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-18.27.23:401][ 75]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.19-18.27.23:813][ 95]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.19-18.27.25:463][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1197851/Desktop/KingWalk.fbx)
+[2019.06.19-18.27.25:479][105]LogFbx: Loading FBX Scene from ../../../../../../Users/u1197851/Desktop/KingWalk.fbx
+[2019.06.19-18.27.25:490][105]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.19-18.27.39:105][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(0) hip
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(1) R_thigh
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(2) R_knee
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(3) R_foot
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(4) L_thigh
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(5) L_knee
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(6) L_foot
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(7) torso1
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(8) R_shoulder
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(9) R_elbow
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(10) R_hand
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(11) L_shoulder
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(12) L_elbow
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(13) L_hand
+[2019.06.19-18.27.39:136][105]LogFbx: SortedLinks :(14) neck
+[2019.06.19-18.27.39:139][105]LogFbx: Parsing AnimStack Take 001
+[2019.06.19-18.27.39:144][105]LogLinker: Can't find file '/Game/mannequin/KingWalk'
+[2019.06.19-18.27.39:144][105]LogLinker: Can't find file '/Game/mannequin/KingWalk'
+[2019.06.19-18.27.39:215][105]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mannequin/KingWalk.KingWalk
+[2019.06.19-18.27.39:216][105]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.KingWalk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.19-18.27.44:098][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.27.44:168][431]LogTemp: Repeating last play command: Simulate
+[2019.06.19-18.27.44:180][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.27.44:182][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.19-18.27.44:184][431]PIE: New page: SIE session: Xavier_Level (Jun 19, 2019, 6:27:44 AM)
+[2019.06.19-18.27.44:198][431]LogPlayLevel: Creating play world package: /Game/CastleBlocks/UEDPIE_0_Xavier_Level
+[2019.06.19-18.27.44:242][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043174s)
+[2019.06.19-18.27.44:242][431]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.19-18.27.44:242][431]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.06.19-18.27.44:243][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CastleBlocks/Xavier_Level.Xavier_Level to /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level (0.044275s)
+[2019.06.19-18.27.44:276][431]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.19-18.27.44:286][431]LogInit: FAudioDevice initialized.
+[2019.06.19-18.27.44:337][431]LogLoad: Game class is 'GameModeBase'
+[2019.06.19-18.27.44:365][431]LogWorld: Bringing World /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level up for play (max tick rate 0) at 2019.06.19-12.27.44
+[2019.06.19-18.27.44:367][431]LogWorld: Bringing up level for play took: 0.019809
+[2019.06.19-18.27.44:404][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.19-18.27.44:406][431]PIE: Play in editor start time for /Game/CastleBlocks/UEDPIE_0_Xavier_Level 1.2
+[2019.06.19-18.27.44:442][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.28.31:708][686]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.453 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.19-18.28.56:190][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.01:853][682]LogSlate: Window 'Message' being destroyed
+[2019.06.19-18.29.18:214][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.24:499][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase007)
+[2019.06.19-18.29.25:428][336]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (KingWalk)
+[2019.06.19-18.29.26:180][383]Cmd: DELETE
+[2019.06.19-18.29.26:181][383]Cmd: ACTOR DELETE
+[2019.06.19-18.29.26:226][383]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.19-18.29.26:246][383]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.06.19-18.29.27:590][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.31:764][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.31:850][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.31:851][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.29.31:890][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.19-18.29.31:891][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.31:917][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.29.31:960][777]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.19-18.29.35:565][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.37:838][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.43:770][642]Cmd: TRANSACTION UNDO
+[2019.06.19-18.29.43:770][642]LogEditorTransaction: Undo Move Actors
+[2019.06.19-18.29.48:998][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.49:077][ 22]LogTemp: Repeating last play command: Simulate
+[2019.06.19-18.29.49:087][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.49:087][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.19-18.29.49:088][ 22]PIE: New page: SIE session: Xavier_Level (Jun 19, 2019, 6:29:49 AM)
+[2019.06.19-18.29.49:088][ 22]LogPlayLevel: Creating play world package: /Game/CastleBlocks/UEDPIE_0_Xavier_Level
+[2019.06.19-18.29.49:128][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040461s)
+[2019.06.19-18.29.49:129][ 22]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.19-18.29.49:129][ 22]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.06.19-18.29.49:129][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CastleBlocks/Xavier_Level.Xavier_Level to /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level (0.041466s)
+[2019.06.19-18.29.49:158][ 22]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.19-18.29.49:167][ 22]LogInit: FAudioDevice initialized.
+[2019.06.19-18.29.49:202][ 22]LogLoad: Game class is 'GameModeBase'
+[2019.06.19-18.29.49:219][ 22]LogWorld: Bringing World /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level up for play (max tick rate 0) at 2019.06.19-12.29.49
+[2019.06.19-18.29.49:220][ 22]LogWorld: Bringing up level for play took: 0.017669
+[2019.06.19-18.29.49:234][ 22]PIE: Play in editor start time for /Game/CastleBlocks/UEDPIE_0_Xavier_Level 0.027
+[2019.06.19-18.29.49:256][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.51:890][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.51:890][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.29.51:928][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.19-18.29.51:928][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.29.51:953][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.29.51:993][232]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.19-18.29.57:143][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.29.59:169][766]Cmd: DELETE
+[2019.06.19-18.29.59:169][766]Cmd: ACTOR DELETE
+[2019.06.19-18.29.59:193][766]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.19-18.29.59:214][766]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.06.19-18.30.00:087][837]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (KingWalk)
+[2019.06.19-18.30.00:854][895]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (KingWalk2)
+[2019.06.19-18.30.01:534][945]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (KingWalk3)
+[2019.06.19-18.30.02:225][996]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (KingWalk4)
+[2019.06.19-18.30.13:354][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.30.13:417][826]LogTemp: Repeating last play command: Simulate
+[2019.06.19-18.30.13:427][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.30.13:427][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.19-18.30.13:427][826]PIE: New page: SIE session: Xavier_Level (Jun 19, 2019, 6:30:13 AM)
+[2019.06.19-18.30.13:427][826]LogPlayLevel: Creating play world package: /Game/CastleBlocks/UEDPIE_0_Xavier_Level
+[2019.06.19-18.30.13:470][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042690s)
+[2019.06.19-18.30.13:470][826]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.19-18.30.13:471][826]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.06.19-18.30.13:471][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CastleBlocks/Xavier_Level.Xavier_Level to /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level (0.043746s)
+[2019.06.19-18.30.13:500][826]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.19-18.30.13:508][826]LogInit: FAudioDevice initialized.
+[2019.06.19-18.30.13:540][826]LogLoad: Game class is 'GameModeBase'
+[2019.06.19-18.30.13:561][826]LogWorld: Bringing World /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level up for play (max tick rate 0) at 2019.06.19-12.30.13
+[2019.06.19-18.30.13:564][826]LogWorld: Bringing up level for play took: 0.022957
+[2019.06.19-18.30.13:577][826]PIE: Play in editor start time for /Game/CastleBlocks/UEDPIE_0_Xavier_Level 0.37
+[2019.06.19-18.30.13:599][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.30.55:915][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase018)
+[2019.06.19-18.30.57:845][148]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_LevelD8BB780C4181FFA196117A90B90028AC.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.19-18.30.57:966][148]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level_BuiltDataAC62EEBD4176CCA4161BA397D06446DA.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level_BuiltData.uasset'
+[2019.06.19-18.30.59:841][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.31.01:025][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/KingTPose_Skeleton" FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingTPose_Skeleton.uasset" SILENT=true
+[2019.06.19-18.31.01:031][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingTPose_Skeleton647EB3F4479483B5EE37A49BF32B216B.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingTPose_Skeleton.uasset'
+[2019.06.19-18.31.01:064][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/KingTPose" FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingTPose.uasset" SILENT=true
+[2019.06.19-18.31.01:104][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingTPose0365088C47788BEEC13338A412F2F37C.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingTPose.uasset'
+[2019.06.19-18.31.01:129][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/lambert1" FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/lambert1.uasset" SILENT=true
+[2019.06.19-18.31.01:147][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/lambert1BF24A4C140C6EBF98E1D87A22BC0F725.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/lambert1.uasset'
+[2019.06.19-18.31.01:166][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/King" FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/woodBlocksContent/King.uasset" SILENT=true
+[2019.06.19-18.31.01:195][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingE181DD1D42F1E0F1CEFD648AEE3A58E5.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/woodBlocksContent/King.uasset'
+[2019.06.19-18.31.01:232][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingTPose_PhysicsAsset215291F74763852708D784A95EDAD41D.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingTPose_PhysicsAsset.uasset'
+[2019.06.19-18.31.01:255][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/KingWalk" FILE="../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingWalk.uasset" SILENT=true
+[2019.06.19-18.31.01:272][394]LogSavePackage: Moving '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingWalk41B2801040D0F1E199A661A28521AEA7.tmp' to '../../../../../../Users/u1197851/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/KingWalk.uasset'
+[2019.06.19-18.31.04:173][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.38.25:423][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-18.40.00:158][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-18.40.00:379][340]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.19-18.40.00:470][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.40.00:471][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.40.00:511][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.19-18.40.00:511][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.19-18.40.00:536][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-18.40.00:667][341]Cmd: QUIT_EDITOR
+[2019.06.19-18.40.00:924][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.19-18.40.00:935][341]LogExit: Preparing to exit.
+[2019.06.19-18.40.01:462][341]LogExit: Editor shut down
+[2019.06.19-18.40.01:462][341]LogExit: Transaction tracking system shut down
+[2019.06.19-18.40.01:716][341]LogExit: Object subsystem successfully closed.
+[2019.06.19-18.40.01:731][341]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.19-18.40.01:734][341]LogD3D11RHI: Shutdown
+[2019.06.19-18.40.01:734][341]LogD3D11RHI: CleanupD3DDevice
+[2019.06.19-18.40.01:738][341]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.19-18.40.01:760][341]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.06.19-18.40.01:760][341]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.19-18.40.01:761][341]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.19-18.40.01:762][341]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.19-18.40.02:160][341]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.19-18.40.02:161][341]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.19-18.40.02:226][341]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.19-18.40.02:227][341]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.19-18.40.02:229][341]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.19-18.40.02:429][341]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.19-18.40.02:430][341]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.19-18.40.02:430][341]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.19-18.40.02:430][341]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.19-18.40.02:432][341]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.19-18.40.02:433][341]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.19-18.40.02:535][341]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.19-18.40.02:635][341]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.19-18.40.02:636][341]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.19-18.40.02:641][341]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.19-18.40.02:648][341]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.19-18.40.02:650][341]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.19-18.40.02:718][341]LogDerivedDataCache: Shutdown
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.19-18.40.02:718][341]LogXGEController: Cleaning working directory: C:/Users/u1197851/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.19-18.40.02:718][341]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.19-18.40.02:719][341]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.19-18.40.02:719][341]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.19-18.40.02:719][341]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.19-18.40.02:719][341]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.19-18.40.02:725][341]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.19-18.40.02:725][341]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.19-18.40.02:726][341]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.19-18.40.02:726][341]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.19-18.40.02:726][341]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.19-18.40.02:726][341]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.19-18.40.02:726][341]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.19-18.40.02:750][341]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.19-18.40.02:750][341]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.19-18.40.02:750][341]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7FAC1B9-40EB-5CD0-77EC-FD8E41A900B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=01d1bca248397c3d28616d88176132bf%7C49f8fe8f46b94eb687e0a6e05db2eb22%7C96aa07b2-9b42-43d8-8bba-d257f465704a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.19-18.40.02:773][341]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.19-18.40.02:775][341]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.19-18.40.02:775][341]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.19-18.40.02:776][341]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.19-18.40.02:777][341]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.19-18.40.02:788][341]LogExit: Exiting.
+[2019.06.19-18.40.02:816][341]Log file closed, 06/19/19 12:40:02
